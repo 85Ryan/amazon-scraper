@@ -2,7 +2,7 @@
 
 A simple Amazon product scraper to extract product details from Amazon.com using Python Requests and Beautifulsoup.
 
-A simple amazon product detail scraper that crawls product information from the top 3 pages of search results based on search keywords, including ASIN `ASIN`, name `Name`， brand `Brand`, seller `Sellse`， shipper `Shipper`， price `Price`, category `Category`, best sellers rank `BSR`, rating `Rating` , number of ratings `Ratings`, number of reviews `reviews` and link `link`, and exports the data as a csv file.
+A simple amazon product detail scraper that crawls product information from the top 3 pages of search results based on search keywords, including ASIN `ASIN`, name `Name`， brand `Brand`, seller `Seller`， shipper `Shipper`， price `Price`, category `Category`, best sellers rank `BSR`, rating `Rating` , number of ratings `Ratings`, number of reviews `reviews` and link `link`, and exports the data as a csv file.
 
 ## Usage
 
